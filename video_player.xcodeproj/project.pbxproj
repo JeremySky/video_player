@@ -13,6 +13,8 @@
 		624261222AFF0B10001C5410 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 624261202AFF0B10001C5410 /* Main.storyboard */; };
 		624261242AFF0B11001C5410 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 624261232AFF0B11001C5410 /* Assets.xcassets */; };
 		624261272AFF0B11001C5410 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 624261252AFF0B11001C5410 /* LaunchScreen.storyboard */; };
+		6242612F2AFF0D25001C5410 /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6242612E2AFF0D25001C5410 /* main.storyboard */; };
+		624261312AFF1E7D001C5410 /* BeActivOverview.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 624261302AFF1E7C001C5410 /* BeActivOverview.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		624261232AFF0B11001C5410 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		624261262AFF0B11001C5410 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		624261282AFF0B11001C5410 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6242612E2AFF0D25001C5410 /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
+		624261302AFF1E7C001C5410 /* BeActivOverview.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = BeActivOverview.mp4; path = ../../../../../Desktop/AppDemonstrations/BeActiv/BeActivOverview.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +65,10 @@
 				6242611E2AFF0B10001C5410 /* ViewController.swift */,
 				624261202AFF0B10001C5410 /* Main.storyboard */,
 				624261232AFF0B11001C5410 /* Assets.xcassets */,
+				624261302AFF1E7C001C5410 /* BeActivOverview.mp4 */,
 				624261252AFF0B11001C5410 /* LaunchScreen.storyboard */,
 				624261282AFF0B11001C5410 /* Info.plist */,
+				6242612E2AFF0D25001C5410 /* main.storyboard */,
 			);
 			path = video_player;
 			sourceTree = "<group>";
@@ -128,6 +134,8 @@
 				624261272AFF0B11001C5410 /* LaunchScreen.storyboard in Resources */,
 				624261242AFF0B11001C5410 /* Assets.xcassets in Resources */,
 				624261222AFF0B10001C5410 /* Main.storyboard in Resources */,
+				6242612F2AFF0D25001C5410 /* main.storyboard in Resources */,
+				624261312AFF1E7D001C5410 /* BeActivOverview.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
